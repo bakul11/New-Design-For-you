@@ -1,0 +1,95 @@
+@media all and (max-width :1180px){
+	
+	.banner-area .container {
+		width: 90%;
+		margin: auto;
+	}
+	
+}
+
+@media all and (max-width :974px){
+	.update-left {
+		width: 100%;
+		float:none;
+		padding-bottom:50px;
+	}
+	
+	.update-right {
+		width: 100%;
+		float:none;
+	}
+	
+}
+
+@media all and (max-width :912px){
+	.header-area .menu {
+		width: 100%;
+		float: none;
+	}
+	.header-area .logo {
+		width: 100%;
+		float: none;
+	}
+	.header-area .logo img {
+		max-width: 70%;
+		margin: auto;
+		display: block;
+	}
+}
+
+
+@media all and (max-width :784px){
+	.service-item {
+		width:50%;
+		float: left;
+		overflow:hidden;
+		margin-right:0;
+	}
+	.banner-left {
+		width: 100%;
+		float:none;
+	}
+	.banner-right {
+		width: 100%;
+		float:none;
+	}
+	.banner-area{
+		height:1000px;
+	}
+}
+
+@media all and (max-width :514px){
+	.service-item {
+		width:100%;
+		float:none;
+	}
+	.menu ul li {
+		display:block;
+		padding:1px;
+	}
+	.menu ul li a{
+		display:block;
+	}
+	.header-area {
+		position:inherit;
+	}
+	
+}
+
+@media all and (max-width :484px){
+	.subscribe {
+		width: 85%;
+		position: relative;
+	}
+	.footer-menu ul li a {
+		padding:5px 0px;
+	}
+}
+@media all and (max-width :412px){
+	.social ul li {
+		display: inline-block;
+		padding-right:0px;
+	}
+}
+
+
